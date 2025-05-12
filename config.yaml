@@ -1,0 +1,14 @@
+guild_id: 1309407899835174983
+rules:
+  sleep_enabled: true
+  open_setup: true
+
+server_config:
+  vote_channel: 1341594198071316652
+  vc_channel: 1341769328957067325
+  vc_allowed_categories:
+    - 1317827095031709726
+    - 1322357484861653074
+    - 1317827204725473391
+    - 1317826868103090176
+  private_category: 1317827095031709726
